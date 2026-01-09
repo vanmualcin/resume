@@ -36,9 +36,3 @@ Software engineer with 8+ years of experience designing and deploying scalable w
 
 ## Education
 B.S. in Software Development | Western Governors University | 2021
-
-## Key Highlights
-- AI-assisted development leadership using GitHub Copilot at scale
-- Regulatory compliance expertise (CIPA, HIPAA, SOC 2)
-- Full-stack real-time systems with 500+ concurrent users
-- Cloud architecture and microservices optimization
